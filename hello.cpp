@@ -4,6 +4,6 @@ int main()
 {
     cout << "hello world!"
     <<"my god\n" 
-    <<"try again";
+    <<"change";
     return 0;
 }
